@@ -28,6 +28,12 @@
     background-color: @background-color-3;
 }
 
+.CodeMirror {
+    font-family: sans, monospace;
+    line-height: 1.2em;
+    color: white;
+}
+
 .platform-mac .CodeMirror {
     .code-font-mac();
 }
@@ -36,7 +42,7 @@
     .code-font-win();
 }
 
-@code-padding: 15px;
+@code-padding: 10px;
 
 .cm-s-default {
     span.cm-keyword {color: @accent-keyword;}
