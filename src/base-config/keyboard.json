@@ -103,10 +103,10 @@
         }
     ],
     "edit.duplicate":  [
-        "Ctrl-D"
+        "Ctrl-Shift-D"
     ],
     "edit.deletelines":  [
-        "Ctrl-Shift-D"
+        "Ctrl-D"
     ],
     "edit.lineUp":  [
         {
