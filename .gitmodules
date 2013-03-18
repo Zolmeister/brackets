@@ -13,3 +13,21 @@
 [submodule "src/thirdparty/mustache"]
 	path = src/thirdparty/mustache
 	url = https://github.com/janl/mustache.js.git
+[submodule "src/extensions/default/select-parent"]
+	path = src/extensions/default/select-parent
+	url = https://github.com/njx/select-parent.git
+[submodule "src/extensions/default/beautify"]
+	path = src/extensions/default/beautify
+	url = https://github.com/drewhjava/brackets-beautify.git
+[submodule "src/extensions/default/color-editor"]
+	path = src/extensions/default/color-editor
+	url = https://github.com/GarthDB/brackets-inline-color-editor.git
+[submodule "src/extensions/default/markdown"]
+	path = src/extensions/default/markdown
+	url = https://github.com/gruehle/MarkdownPreview.git
+[submodule "src/extensions/default/svg-preview"]
+	path = src/extensions/default/svg-preview
+	url = https://github.com/peterflynn/svg-preview.git
+[submodule "src/extensions/default/ShowWhitespace"]
+	path = src/extensions/default/ShowWhitespace
+	url = https://github.com/DennisKehrig/brackets-show-whitespace.git
