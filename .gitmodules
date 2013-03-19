@@ -31,3 +31,6 @@
 [submodule "src/extensions/default/ShowWhitespace"]
 	path = src/extensions/default/ShowWhitespace
 	url = https://github.com/DennisKehrig/brackets-show-whitespace.git
+[submodule "src/extensions/default/helper"]
+	path = src/extensions/default/helper
+	url = https://github.com/Zolmeister/brackets-helper.git
